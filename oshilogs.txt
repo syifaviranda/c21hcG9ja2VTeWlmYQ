@@ -12,49 +12,41 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Syifa =====
-[1]Syifa       |08:52:18 | 27-10-2026| login OK @vsyiifaa | score=2180 rank=3597
-[1]Syifa       |08:52:18 | 27-10-2026| serverTime=2026-10-27T08:52:18.000Z local=2026-10-27T08:52:18.860Z
+[1]Syifa       |09:32:13 | 28-10-2026| login OK @vsyiifaa | score=2270 rank=3448
+[1]Syifa       |09:32:13 | 28-10-2026| serverTime=2026-10-28T09:32:13.000Z local=2026-10-28T09:32:13.515Z
 --> [1]Syifa menjalankan: Claim Daily
-[1]Syifa       |08:52:19 | 27-10-2026| daily: OK +10 poin score=2190
---> [1]Syifa menjalankan: Auto All Tasks (8 pending)
-[1]Syifa       |08:52:21 | 27-10-2026| [1/8] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003139656712150
-[1]Syifa       |08:52:21 | 27-10-2026| delay 10s...
-[1]Syifa       |08:52:34 | 27-10-2026| [2/8] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003256336794442
-[1]Syifa       |08:52:34 | 27-10-2026| delay 10s...
-[1]Syifa       |08:52:46 | 27-10-2026| [3/8] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003187588879700
-[1]Syifa       |08:52:46 | 27-10-2026| delay 10s...
-[1]Syifa       |08:52:57 | 27-10-2026| [4/8] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003518484013488
-[1]Syifa       |08:52:57 | 27-10-2026| delay 10s...
-[1]Syifa       |08:53:09 | 27-10-2026| [5/8] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796
-[1]Syifa       |08:53:09 | 27-10-2026| delay 10s...
-[1]Syifa       |08:53:21 | 27-10-2026| [6/8] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003407753859235
-[1]Syifa       |08:53:21 | 27-10-2026| delay 10s...
-[1]Syifa       |08:53:33 | 27-10-2026| [7/8] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003608581259522
-[1]Syifa       |08:53:33 | 27-10-2026| delay 10s...
-[1]Syifa       |08:53:45 | 27-10-2026| [8/8] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/vsyiifaa/status/2115003695835594453
-[1]Syifa       |08:53:45 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Syifa       |08:53:47 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/vsyiifaa/status/2115003432796071781
+[1]Syifa       |09:32:14 | 28-10-2026| daily: OK +10 poin score=2280
+--> [1]Syifa menjalankan: Auto All Tasks (4 pending)
+[1]Syifa       |09:32:16 | 28-10-2026| [1/4] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/vsyiifaa/status/2115375665127042985
+[1]Syifa       |09:32:16 | 28-10-2026| delay 10s...
+[1]Syifa       |09:32:29 | 28-10-2026| [2/4] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/vsyiifaa/status/2115375559187584524
+[1]Syifa       |09:32:29 | 28-10-2026| delay 10s...
+[1]Syifa       |09:32:41 | 28-10-2026| [3/4] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/vsyiifaa/status/2115375814265703622
+[1]Syifa       |09:32:41 | 28-10-2026| delay 10s...
+[1]Syifa       |09:32:52 | 28-10-2026| [4/4] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211506845698718 | proof=https://x.com/vsyiifaa/status/2115375881695582726
+[1]Syifa       |09:32:52 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Syifa       |09:32:54 | 28-10-2026| [1/1] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"87ae8b6e-5160-4f19-8e5e-b9c0f414d46c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115068456987189 | proof=https://x.com/vsyiifaa/status/2115375939356906454
 --> [1]Syifa menjalankan: Watch Anime
-[1]Syifa       |08:53:48 | 27-10-2026| watch: semua video sudah completed
+[1]Syifa       |09:32:55 | 28-10-2026| watch: semua video sudah completed
 --> [1]Syifa menjalankan: Read Article
-[1]Syifa       |08:53:49 | 27-10-2026| news: 30/30 artikel selesai dibaca
-[1]Syifa       |08:53:50 | 27-10-2026| mint eligibility: {"userId":"1617532210218926082","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vsyifa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
-[1]Syifa       |08:53:50 | 27-10-2026| news: semua artikel sudah dibaca
+[1]Syifa       |09:32:57 | 28-10-2026| news: 30/30 artikel selesai dibaca
+[1]Syifa       |09:32:57 | 28-10-2026| mint eligibility: {"userId":"1617532210218926082","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vsyifa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
+[1]Syifa       |09:32:57 | 28-10-2026| news: semua artikel sudah dibaca
 --> [1]Syifa menjalankan: Quiz Anime
 --> [1]Syifa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Syifa       |08:53:52 | 27-10-2026| music: kedua misi sudah tercapai, stop
-[1]Syifa       |08:53:53 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Syifa       |08:53:53 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Syifa       |08:53:53 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Syifa       |09:33:03 | 28-10-2026| music: kedua misi sudah tercapai, stop
+[1]Syifa       |09:33:03 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Syifa       |09:33:03 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Syifa       |09:33:03 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Syifa menjalankan: Claim Missions
-[1]Syifa       |08:53:53 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Syifa       |08:53:53 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Syifa       |08:53:53 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Syifa       |09:33:04 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Syifa       |09:33:04 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Syifa       |09:33:04 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Syifa menjalankan: Check Eligibility
 
 --- eligibility [1]Syifa ---
-  @vsyiifaa | score=2180 rank=3597
-  tasks    [#########-----------] 7/15
+  @vsyiifaa | score=2270 rank=3448
+  tasks    [###############-----] 11/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +57,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Syifa menjalankan: Read Manga
-[1]Syifa       |08:53:57 | 27-10-2026| manga: 0/13 chapter belum completed
+[1]Syifa       |09:33:07 | 28-10-2026| manga: 0/13 chapter belum completed
 --> [1]Syifa menjalankan: Get Gift
-[1]Syifa       |08:53:58 | 27-10-2026| gift: 0/4 belum diterima
+[1]Syifa       |09:33:08 | 28-10-2026| gift: 1/5 belum diterima
+[1]Syifa       |09:33:09 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
 --> [1]Syifa menjalankan: Setup Profile
-[1]Syifa       |08:53:59 | 27-10-2026| profile: bio="https://x.com/vsyiifaa" fav=mony rewardAt=1791681826
-[1]Syifa       |08:53:59 | 27-10-2026| profile: bonus sudah diklaim, skip
+[1]Syifa       |09:33:11 | 28-10-2026| profile: bio="https://x.com/vsyiifaa" fav=mony rewardAt=1791681826
+[1]Syifa       |09:33:11 | 28-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Syifa menjalankan: Bind Wallet
-[1]Syifa       |08:53:59 | 27-10-2026| wallet: sudah terikat BikHXNCrz8... (solana)
+[1]Syifa       |09:33:12 | 28-10-2026| wallet: sudah terikat BikHXNCrz8... (solana)
 
 == RINGKASAN ==
-- Syifa: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Syifa: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
